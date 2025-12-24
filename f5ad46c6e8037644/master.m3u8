@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-1080p/github_1080p.m3u8
+https://raw.githubusercontent.com/arifkushwaha50/fixed-playlists/refs/heads/master/f5ad46c6e8037644/1080p/github_1080p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-720p/github_720p.m3u8
+https://raw.githubusercontent.com/arifkushwaha50/fixed-playlists/refs/heads/master/f5ad46c6e8037644/720p/github_720p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=852x480
-480p/github_480p.m3u8
+https://raw.githubusercontent.com/arifkushwaha50/fixed-playlists/refs/heads/master/f5ad46c6e8037644/480p/github_480p.m3u8
